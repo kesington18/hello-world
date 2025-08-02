@@ -11,7 +11,7 @@ function HelloWorld({name}) {
           learning
         </p>
         <p>published 21 dec 2013</p>
-        <h1>HTML znd CSS Foundation</h1>
+        <h1>HTML and CSS Foundation</h1>
         <p className='content'>These languages are the backbone of every website, defining content, structure, and presentation</p>
 
         <div className='profile'>
